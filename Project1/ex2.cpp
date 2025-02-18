@@ -8,7 +8,7 @@
 #define max(x, y) (x) > (y) ? (x) : (y)
 char str[1'000'000];
 
-int main() {
+int main1() {
     int N, M;
     int ans = 0;
     scanf("%d %d %s", &N, &M, str);

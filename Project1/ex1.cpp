@@ -75,7 +75,7 @@ int sum1toN(int n) {
 }
 
 int globalarr[4];
-int ma3in(void) {
+int main(void) {
 	/*int a = 5;
 	int b = 6;
 	SWAP_INT(a, b);

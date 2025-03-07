@@ -3,6 +3,7 @@
 
 void printArrAddr(int arr[]){
     // 배열 포인터의 주소를 출력
+    //Hello github!
     printf("arr : %p\n", arr);
     // 배열 요소의 주소를 출력
     printf("&arr[0] : %p\n", &arr[0]);
